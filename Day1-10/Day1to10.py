@@ -15,3 +15,5 @@ print(getName) #* Printing the console
 def GetAge() :
 
     getAge = input("Enter your age: ")
+
+    if int(getAge) < 10 : 
