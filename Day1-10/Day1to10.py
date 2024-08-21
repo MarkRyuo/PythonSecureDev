@@ -10,3 +10,4 @@ getName = input("Enter your name: ") # * Input
 print(getName) #* Printing the console 
 
 
+# * Control Flow 
