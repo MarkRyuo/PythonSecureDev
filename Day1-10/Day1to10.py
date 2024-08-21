@@ -21,7 +21,7 @@ def GetAge() :
     elif int(getAge) >= 18 and int(getAge) <= 25: 
         print("Your Teenager")
     elif int(getAge) < 18 :
-        print("Your Teenager") 
+        print("Your Young your ban") 
         return False
 
 if __name__ == "__main__" :
