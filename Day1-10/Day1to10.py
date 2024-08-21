@@ -26,8 +26,11 @@ def GetAge() :
     
 
 if __name__ == "__main__" :
+
     if getName == "moda" or getName == "Moda" :
         GetAge()
+    else : 
+        exit()
     
     
 
