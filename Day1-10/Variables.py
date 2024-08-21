@@ -7,3 +7,4 @@ online = True # * Boolean
 
 
 getName = input("Enter your name: ") # * Input 
+print(getName)
