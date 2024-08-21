@@ -16,7 +16,7 @@ def GetAge() :
 
     getAge = input("Enter your age: ")
 
-    if int(getAge) < 18 : 
-        print("Your Young")
+    if int(getAge) >= 18 : 
+        print("Your Teenager")
     elif int(getAge) >= 18 :
         print("Your Teenager") 
