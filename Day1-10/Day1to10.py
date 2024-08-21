@@ -22,6 +22,7 @@ def GetAge() :
         print("Your Teenager")
     elif int(getAge) < 18 :
         print("Your Teenager") 
+        return False
 
 if __name__ == "__main__" :
     if getName == "moda" or getName == "Moda" :
