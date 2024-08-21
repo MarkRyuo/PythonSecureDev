@@ -1,6 +1,6 @@
 
 # * Variables 
 
-name = "Moda" 
-age = 21 
+name = "Moda" # * String  
+age = 21  # * Integer or Number
 online = True 
