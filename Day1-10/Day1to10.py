@@ -21,7 +21,7 @@ def GetAge() :
     elif int(getAge) >= 18 and int(getAge) <= 25:  # ? If age is greater or equal to 18 and less than or equal 25, they Teenager
         print("Your Teenager")
     elif int(getAge) < 18 :
-        print("Your Young your ban") 
+        print("Your Young your ban") # ? If age is less than to 18, they too young and they ban in the system 
         return False
     
 
