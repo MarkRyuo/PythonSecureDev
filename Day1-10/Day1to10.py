@@ -27,6 +27,7 @@ def GetAge() :
 
 if __name__ == "__main__" :
 
+    # * control flow 
     if getName == "moda" or getName == "Moda" :
         GetAge()
     else :
