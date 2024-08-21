@@ -13,4 +13,5 @@ print(getName) #* Printing the console
 # * Control Flow with Function 
 
 def GetAge() :
-    
+
+    getAge = input("Enter your age: ")
