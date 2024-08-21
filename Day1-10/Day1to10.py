@@ -29,4 +29,4 @@ if __name__ == "__main__" :
     
 
     if getName : 
-        print(f)
+        print(f"Hi {getName} Welcome")
