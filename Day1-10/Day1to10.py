@@ -18,7 +18,7 @@ def GetAge() :
 
     if int(getAge) > 25 : # ? If age is greater to 25 they Adult
         print("Your Adult")
-    elif int(getAge) >= 18 and int(getAge) <= 25: 
+    elif int(getAge) >= 18 and int(getAge) <= 25:  # ? If age is greater or equal to 18 and less than to 
         print("Your Teenager")
     elif int(getAge) < 18 :
         print("Your Young your ban") 
