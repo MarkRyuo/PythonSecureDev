@@ -8,7 +8,9 @@
 
 list_Name = [
     "Riyuo",
-    ""
+    "Niyari",
+    "Sopheya",
+    "Jian"
 ]
 
 def Getname() :
