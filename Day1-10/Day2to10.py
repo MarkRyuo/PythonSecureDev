@@ -5,3 +5,6 @@
 
 
 # Todo Create a list of names and loop it 
+
+
+def getName
