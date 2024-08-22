@@ -20,7 +20,7 @@ def Getname() :
     for i in list_Name :
         print(i)
 
-    for x in range(0, 5) :
+    for x in range(1, 5) :
         print(x)
 
 
