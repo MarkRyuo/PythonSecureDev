@@ -27,6 +27,7 @@ def Getname() :
         print(list_Name[j])
     
     for count in range(len(list_Name)) :
+        print(count)
 
 
 
