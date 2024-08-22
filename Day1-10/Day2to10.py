@@ -18,8 +18,7 @@ list_Name = [
 def Getname() :
 
     for i in list_Name :
-        print(i)
-
+        return f"Name: {i}"
 
 
 
