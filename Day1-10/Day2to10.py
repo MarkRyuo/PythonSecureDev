@@ -23,6 +23,9 @@ def Getname() :
     for x in range(1, 5) :
         print(x)
 
+    for j in range(1, 5) : 
+        return list_Name[j]
+
 
 
 
