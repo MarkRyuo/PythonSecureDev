@@ -4,4 +4,4 @@
 # * Basic data structure: List, tuple, dict, set 
 
 
-# Todo Create a list of names 
+# Todo Create a list of names and loop it 
