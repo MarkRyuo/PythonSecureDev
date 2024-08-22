@@ -25,4 +25,4 @@ def Getname() :
 
 if __name__ == '__main__' :
 
-    Getname()
+    print(Getname())
