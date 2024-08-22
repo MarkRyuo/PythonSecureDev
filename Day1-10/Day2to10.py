@@ -19,3 +19,11 @@ def Getname() :
 
     for i in list_Name :
         print(i)
+
+
+
+
+
+if __name__ == '__main__' :
+
+    Getname()
