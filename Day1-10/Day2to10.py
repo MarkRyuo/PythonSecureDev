@@ -23,7 +23,7 @@ def Getname() :
     for x in range(1, 5) :
         print(x)
 
-    for j in range(1, 5) : 
+    for j in range(len(list_Name)) : 
         print(list_Name[j])
 
 
