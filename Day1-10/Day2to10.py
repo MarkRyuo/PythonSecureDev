@@ -6,7 +6,10 @@
 
 # Todo Create a list of names and loop it 
 
-list_Name = 
+list_Name = [
+    "Riyuo",
+    ""
+]
 
 def Getname() :
 
