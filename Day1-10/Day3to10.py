@@ -40,9 +40,10 @@ list_ofName = [
 
 
 def getName() -> str:
-
-    getname = input("Enter a name: ")
-
+    
+    def names() -> str :
+        getname = input("Enter a name: ")
+    return getname
 
     if getname : 
         list_ofName.append(getname)
