@@ -43,7 +43,7 @@ def getName() -> str:
     
     def names() -> str :
         getname = input("Enter a name: ")
-    return getname
+        return getname
 
     if getname : 
         list_ofName.append(getname)
