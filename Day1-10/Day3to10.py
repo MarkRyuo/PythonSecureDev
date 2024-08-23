@@ -39,13 +39,13 @@ list_ofName = [
 def getName() :
 
     getname = input("Enter a name: ")
-    
     getaddname = []
+    getaddname.append(list_ofName)
 
     if getname: 
         for i in list_ofName :
             print(i)
-            getaddname.append(getname)       
+            getaddname.append(getname)      
     else :
         return False 
 
