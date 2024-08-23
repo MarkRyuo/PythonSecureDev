@@ -40,7 +40,12 @@ def getName() :
 
     getname = input("Enter a name: ")
     
-
+    
+    if getname: 
+        for i in list_ofName :
+            print(i)
+            
+    else :
 
 if __name__ == "__main__" :
 
