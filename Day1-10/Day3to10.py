@@ -24,7 +24,8 @@ def getAge() :
 count = 0 
 
 def increament() :
-
+    global count 
+    count += 1 
 
 
 if __name__ == "__main__" :
