@@ -45,6 +45,7 @@ def getName() -> str:
         getname = input("Enter a name: ")
         return getname
 
+    definename = names()
     if getname : 
         list_ofName.append(getname)
         print(list_ofName)
