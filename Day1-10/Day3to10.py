@@ -1,5 +1,8 @@
 
 # * Variable that assign into multiple values 
+from requests import get
+
+
 name, age , active = "moda", 21, True 
 print(name)
 print(age)
@@ -36,14 +39,16 @@ list_ofName = [
 ]
 
 
-def getName() :
+def getName() -> str:
 
     getname = input("Enter a name: ")
 
 
     if getname : 
         list_ofName.append(getname)
-        print(getaddname) 
+        print(list_ofName)
+    
+    return getname
 
 if __name__ == "__main__" :
 
