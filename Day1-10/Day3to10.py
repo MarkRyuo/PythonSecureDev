@@ -44,9 +44,7 @@ def getName() :
 
     if getname: 
         for i in list_ofName :
-            print(i)
-            getaddname.append(getname)
-            print(getaddname)      
+            print(i)      
     else :
         return False 
 
