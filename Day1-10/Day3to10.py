@@ -42,14 +42,9 @@ def getName() :
     getaddname = []
     getaddname.append(list_ofName)
 
-    if getname: 
-        for i in list_ofName :
-            print(i)      
-    else :
-        return False
 
     if getname : 
-        getaddname.append(getname)
+        list_ofName.append(getname)
         print(getaddname) 
 
 if __name__ == "__main__" :
