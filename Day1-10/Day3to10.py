@@ -17,7 +17,6 @@ def getAge() :
 
 
 #* Create number increamenting 
-
 count = 0 
 
 def increament() :
@@ -26,8 +25,17 @@ def increament() :
     print(f"After: {count}")
 
 
+# * Create a list of names, 
+
+
+
+def getName() :
+
+    
+
+
 if __name__ == "__main__" :
 
-    getAge()
-    print(f"Before: {count}")
-    increament()
+    # getAge()
+    # print(f"Before: {count}")
+    # increament()
