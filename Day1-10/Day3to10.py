@@ -32,6 +32,5 @@ def increament() :
 if __name__ == "__main__" :
 
     getAge()
-
     print(f"Before: {count}")
     increament()
