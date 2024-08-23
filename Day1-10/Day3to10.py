@@ -25,7 +25,7 @@ def increament() :
     print(f"After: {count}")
 
 
-# * Create a list of names, 
+# * Create a list of names, then add another names
 
 
 
