@@ -41,7 +41,7 @@ list_ofName = [
 
 def getName() -> str:
     
-    def names() -> str :
+    def names() -> strw :
         getname = input("Enter a name: ")
         return getname
 
@@ -51,7 +51,7 @@ def getName() -> str:
         list_ofName.append(definename)
         print(list_ofName)
     
-    return getname
+    return definename
 
 if __name__ == "__main__" :
 
