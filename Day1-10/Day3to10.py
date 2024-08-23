@@ -26,7 +26,7 @@ count = 0
 def increament() :
     global count 
     count += 1 
-    print(f"After {count}")
+    print(f"After: {count}")
 
 
 if __name__ == "__main__" :
