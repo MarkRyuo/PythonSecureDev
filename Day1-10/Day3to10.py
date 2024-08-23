@@ -39,8 +39,6 @@ list_ofName = [
 def getName() :
 
     getname = input("Enter a name: ")
-    getaddname = []
-    getaddname.append(list_ofName)
 
 
     if getname : 
