@@ -1,6 +1,5 @@
 
 # * Variable that assign into multiple values 
-from requests import get
 
 
 name, age , active = "moda", 21, True 
