@@ -46,8 +46,9 @@ def getName() -> str:
         return getname
 
     definename = names()
-    if getname : 
-        list_ofName.append(getname)
+
+    if definename : 
+        list_ofName.append(definename)
         print(list_ofName)
     
     return getname
