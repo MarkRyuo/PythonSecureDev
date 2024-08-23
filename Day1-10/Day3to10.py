@@ -41,7 +41,7 @@ list_ofName = [
 
 def getName() -> str:
     
-    def names() -> strw :
+    def names() -> str :
         getname = input("Enter a name: ")
         return getname
 
