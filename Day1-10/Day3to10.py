@@ -36,9 +36,9 @@ list_ofName = [
 ]
 
 
-
 def getName() :
 
+    getname = input("Enter a name: ")
     
 
 
