@@ -46,7 +46,11 @@ def getName() :
         for i in list_ofName :
             print(i)      
     else :
-        return False 
+        return False
+
+    if getname : 
+        getaddname.append(getname)
+        print(getaddname) 
 
 if __name__ == "__main__" :
 
