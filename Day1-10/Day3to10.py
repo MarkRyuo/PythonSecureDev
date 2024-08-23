@@ -40,7 +40,8 @@ def getName() :
 
     getname = input("Enter a name: ")
     
-    
+    getaddname = []
+
     if getname: 
         for i in list_ofName :
             print(i)
