@@ -27,6 +27,14 @@ def increament() :
 
 # * Create a list of names, then add another names
 
+list_ofName = [
+    "Riyuo",
+    "Niyari",
+    "Samantya",
+    "Jiyan"
+    
+]
+
 
 
 def getName() :
