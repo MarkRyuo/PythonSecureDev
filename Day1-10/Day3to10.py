@@ -21,6 +21,8 @@ def getAge() :
 
 #* Create number increamenting 
 
+count = 0 
+
 def increament() :
 
 
