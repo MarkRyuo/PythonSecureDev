@@ -17,3 +17,8 @@ def getAge() :
     age = 30 
 
     print(age)
+
+
+if __name__ == "__main__" :
+
+    getAge()
