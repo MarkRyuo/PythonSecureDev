@@ -39,6 +39,7 @@ def matrixloop() :
 
     for row in Matrix : #* Outer loop iterates over each row in the matrix
         for column in row : #* Inner loop iterates over each column/element in the current row
+            print(column)
 
 
 if __name__ == '__main__' :
