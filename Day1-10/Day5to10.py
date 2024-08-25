@@ -11,3 +11,6 @@ dict_of_name = {
     "name3" : "Samantya",
     "name4" : "Jiyan"
 }
+
+def loopofname() :
+    
