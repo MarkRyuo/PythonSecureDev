@@ -40,7 +40,7 @@ lowername = str("Moda")
 print(lowername.upper())
 
 
-if __name__ == "__main__" :
+if __name__ == "__main__" : # * This is 
 
     # * control flow 
     if getName == "moda" or getName == "Moda" :
