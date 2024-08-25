@@ -20,6 +20,9 @@ def loopofname() :
     
     for key in dict_of_name.keys() : #* Looping in keys of dictionaries 
         print(key)
+    
+    for items in dict_of_name.items() :
+        print(items)
 
 
 
