@@ -46,7 +46,8 @@ def Nestedloop() :
     
 
     for color in colors :
-        for fruit in fruits
+        for fruit in fruits :
+            print(f"{color}: {fruit}")
 
 
 if __name__ == '__main__' :
