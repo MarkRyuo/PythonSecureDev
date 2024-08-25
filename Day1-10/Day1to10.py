@@ -28,6 +28,7 @@ def GetAge() :
 # * specify the datatypes 
 specifyname = str("Moda")
 specifyage = int(21)
+specifyonline = bool(True)
 
 
 if __name__ == "__main__" :
