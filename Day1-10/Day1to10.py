@@ -1,9 +1,9 @@
 
 # * Variables 
 
-name = "Moda" # * String - str 
-age = 21  # * Integer or Number
-online = True # * Boolean 
+name = "Moda" # * String -> str 
+age = 21  # * Integer or Number -> int 
+online = True # * Boolean -> bool
 
 
 getName = input("Enter your name: ") # * Input 
