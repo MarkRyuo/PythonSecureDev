@@ -33,7 +33,7 @@ Matrix = [
     [3, 1, 2]
 ]
 
-colors = ["red", "blue", "green"]
+colors = ["red", "blue", "green"] 
 fruits = ["apple", "grape", "mango"]
 
 def Nestedloop() :
