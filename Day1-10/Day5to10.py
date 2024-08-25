@@ -45,8 +45,8 @@ def Nestedloop() :
             print(column)
     
 
-    for color in colors :
-        for fruit in fruits :
+    for color in colors : #* Inner Loop 
+        for fruit in fruits : #* Outer Loop 
             print(f"{color}: {fruit}")
 
 
