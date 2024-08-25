@@ -6,5 +6,8 @@
 #* items() - gets you both the keys and values in a dictionary 
 
 dict_of_name = {
-    "name1" : "Riyuo"
+    "name1" : "Riyuo",
+    "name2" : "Niyari",
+    "name3" : "Samantya",
+    "name4" : "Jiyan"
 }
