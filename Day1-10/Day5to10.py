@@ -35,7 +35,10 @@ Matrix = [
 
 def matrixloop() :
 
-    #* 
+    #* Nested for loop 
+
+    for row in Matrix :
+        
 
 
 if __name__ == '__main__' :
