@@ -37,8 +37,8 @@ def matrixloop() :
 
     #* Nested for loop 
 
-    for row in Matrix :
-        
+    for row in Matrix : #* Outer loop iterates over each row in the matrix
+        for column in row : #* Inner loop iterates over each column/element in the current row
 
 
 if __name__ == '__main__' :
