@@ -5,4 +5,6 @@
 #* values() - gets you the values in a dictionary 
 #* items() - gets you both the keys and values in a dictionary 
 
-
+dict_of_name = {
+    
+}
