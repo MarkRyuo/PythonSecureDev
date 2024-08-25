@@ -19,3 +19,10 @@ def loopofname() :
 
     for values in dict_of_name.values() :
         print(values)
+    
+
+
+if __name__ == '__main__' :
+
+else :
+    print("Error")
