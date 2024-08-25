@@ -27,6 +27,7 @@ def GetAge() :
 
 # * specify the datatypes 
 specifyname = str("Moda")
+specifyage = int(21)
 
 
 if __name__ == "__main__" :
