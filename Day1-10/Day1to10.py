@@ -31,7 +31,8 @@ specifyage = int(21)
 specifyonline = bool(True)
 
 
-#* 
+#* Checking Data types 
+print(type(specifyname))
 
 
 if __name__ == "__main__" :
