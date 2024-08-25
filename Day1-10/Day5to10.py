@@ -43,6 +43,7 @@ def matrixloop() :
 
 
 if __name__ == '__main__' :
-    loopofname()
+    # loopofname()
+    
 else :
     print("Error")
