@@ -1,7 +1,7 @@
 
 # * Variables 
 
-name = "Moda" # * String  
+name = "Moda" # * String - str 
 age = 21  # * Integer or Number
 online = True # * Boolean 
 
