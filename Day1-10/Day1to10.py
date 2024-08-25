@@ -34,6 +34,11 @@ specifyonline = bool(True)
 #* Checking Data types 
 print(type(specifyname))
 
+#* Python has many builtin method or function 
+
+lowername = str("Moda")
+
+
 
 if __name__ == "__main__" :
 
