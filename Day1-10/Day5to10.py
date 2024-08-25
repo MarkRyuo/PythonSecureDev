@@ -5,6 +5,9 @@
 #* values() - gets you the values in a dictionary 
 #* items() - gets you both the keys and values in a dictionary 
 
+from optparse import Values
+
+
 dict_of_name = {
     "name1" : "Riyuo",
     "name2" : "Niyari",
@@ -13,4 +16,6 @@ dict_of_name = {
 }
 
 def loopofname() :
-    
+
+    for values in dict_of_name.values() :
+        print(values)
