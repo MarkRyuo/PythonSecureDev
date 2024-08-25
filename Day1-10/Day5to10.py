@@ -34,7 +34,7 @@ Matrix = [
 ]
 
 colors = ["red", "blue", "green"] #* Outer Loop 
-fruits = ["apple", "grape", "mango"] 
+fruits = ["apple", "grape", "mango"] #* Inner Loop 
 
 def Nestedloop() :
 
@@ -43,6 +43,10 @@ def Nestedloop() :
     for row in Matrix : #* Outer loop iterates over each row in the matrix
         for column in row : #* Inner loop iterates over each column/element in the current row
             print(column)
+    
+
+    for color in colors :
+        for fruit in fruits
 
 
 if __name__ == '__main__' :
