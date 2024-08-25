@@ -26,7 +26,6 @@ def loopofname() :
 
 
 
-
 if __name__ == '__main__' :
     loopofname()
 else :
