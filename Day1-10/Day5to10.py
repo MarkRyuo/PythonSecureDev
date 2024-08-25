@@ -33,7 +33,9 @@ Matrix = [
     [3, 1, 2]
 ]
 
-def matrixloop()
+def matrixloop() :
+
+    #* 
 
 
 if __name__ == '__main__' :
