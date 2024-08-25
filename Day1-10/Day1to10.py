@@ -25,7 +25,10 @@ def GetAge() :
         return False
     
 
-# * specify the 
+# * specify the datatypes 
+specifyname = str("Moda")
+
+
 if __name__ == "__main__" :
 
     # * control flow 
