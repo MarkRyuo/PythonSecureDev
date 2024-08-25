@@ -33,7 +33,7 @@ Matrix = [
     [3, 1, 2]
 ]
 
-def matrixloop() :
+def Nestedloop() :
 
     #* Nested for loop 
 
@@ -44,6 +44,6 @@ def matrixloop() :
 
 if __name__ == '__main__' :
     # loopofname()
-    
+    Nestedloop()
 else :
     print("Error")
