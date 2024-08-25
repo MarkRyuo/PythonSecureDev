@@ -1,3 +1,3 @@
 
-# * Loop in dict 
-### *  Methods to loop a dict:  
+#* Loop in dict 
+#*  Methods to loop a dict:  
