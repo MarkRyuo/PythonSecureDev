@@ -15,9 +15,10 @@ dict_of_name = {
 
 def loopofname() :
 
-    for values in dict_of_name.values() : #* Looping in 
+    for values in dict_of_name.values() : #* Looping in values of dictionaries  
         print(values) 
     
+
 
 
 if __name__ == '__main__' :
