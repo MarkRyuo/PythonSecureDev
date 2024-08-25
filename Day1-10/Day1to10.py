@@ -37,7 +37,7 @@ print(type(specifyname))
 #* Python has many builtin method or function 
 
 lowername = str("Moda")
-
+print(lowername.upper())
 
 
 if __name__ == "__main__" :
