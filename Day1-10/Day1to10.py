@@ -31,6 +31,9 @@ specifyage = int(21)
 specifyonline = bool(True)
 
 
+#* 
+
+
 if __name__ == "__main__" :
 
     # * control flow 
