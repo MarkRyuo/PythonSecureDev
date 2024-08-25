@@ -33,6 +33,8 @@ Matrix = [
     [3, 1, 2]
 ]
 
+colors = ["red", "blue"]
+
 def Nestedloop() :
 
     #* Nested for loop 
