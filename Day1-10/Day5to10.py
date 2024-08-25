@@ -18,8 +18,9 @@ def loopofname() :
     for values in dict_of_name.values() : #* Looping in values of dictionaries  
         print(values) 
     
-    for key in dict_of_name.keys() :
+    for key in dict_of_name.keys() : #* Looping in keys of dictionaries 
         print(key)
+
 
 
 
