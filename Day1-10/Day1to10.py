@@ -25,7 +25,7 @@ def GetAge() :
         return False
     
 
-
+# * specify the 
 if __name__ == "__main__" :
 
     # * control flow 
