@@ -43,7 +43,7 @@ data = {
 
 #* Check if the character in the data is alive, Input the name 
 
-def check_alive() -> str :
+def check_alive() :
 
     charname = input("Enter the name: ") 
 
@@ -55,9 +55,8 @@ def check_alive() -> str :
                 print(f"{charname} is alive")
             else :
                 print(f"{charname} is unknown")
-
-
-    return f"{charname} is not found"
+        else :
+            return f"{charname} is not found"
 
 
 
