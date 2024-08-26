@@ -47,5 +47,6 @@ def check_alive() -> str :
 
     charname = input("Enter the name: ") 
 
+    if charname in dataw
 
     return charname 
