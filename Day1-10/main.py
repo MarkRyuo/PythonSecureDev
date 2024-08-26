@@ -50,7 +50,6 @@ def check_alive() :
     for key, value in data.items() :
         print(f"{key}, {value}")
         if value["username"] == charname :
-            
             if value["alive"] :
                 print(f"{charname} is alive")
             else :
@@ -61,4 +60,4 @@ def check_alive() :
 
 
 if __name__ == '__main__' :
-    print(check_alive())
+    check_alive()
