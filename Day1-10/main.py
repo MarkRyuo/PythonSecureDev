@@ -1,7 +1,7 @@
 from Data import data
 
 #* Create Character Checker
-#* Temporal Incident  
+#* In the Temporal Incident  
 
 
 # todo create a data by name of characters in the Temporal Incident
