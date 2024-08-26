@@ -4,6 +4,9 @@
 
 #* Vanishing Incident  
 
+from http.client import _DataType
+
+
 data = {
     "Char1": {
         "username" : "Moda",
@@ -32,3 +35,6 @@ data = {
     
 
 }
+
+
+print(type(data))
