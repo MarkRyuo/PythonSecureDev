@@ -4,7 +4,6 @@ from Data import data
 #* In the Temporal Incident  
 
 
-# todo create a data by name of characters in the Temporal Incident
 
 #* Check if the character in the data is alive, by inputting the name.
 

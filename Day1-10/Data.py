@@ -1,4 +1,5 @@
 
+# todo create a data by name of characters in the Temporal Incident
 
 data = {
     "Char1": {
