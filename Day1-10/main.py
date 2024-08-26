@@ -47,6 +47,13 @@ def check_alive() -> str :
 
     charname = input("Enter the name: ") 
 
-    if charname 
+    for key, value in data.items() :
+        if value["username"] == charname :
+            
+            if value["alive"] :
+                print(f"{charname} is alive")
+            else :
+                print(f"{charname} is unknown")
+
 
     return charname 
