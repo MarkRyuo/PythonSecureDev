@@ -41,4 +41,7 @@ data = {
 
 }
 
-#* Check if the character in the data is alive, Input the name   
+#* Check if the character in the data is alive, Input the name 
+
+def check_alive() :
+      
