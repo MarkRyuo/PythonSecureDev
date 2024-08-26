@@ -1,7 +1,6 @@
 
 
-#* Create Character Checkerw
-
+#* Create Character Checker
 #* Temporal Incident  
 
 
