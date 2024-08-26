@@ -40,7 +40,7 @@ data = {
 
 }
 
-#* Check if the character in the data is alive, by inputting the name 
+#* Check if the character in the data is alive, by inputting the name.
 
 def check_alive() -> str  :
     
