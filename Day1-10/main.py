@@ -22,6 +22,12 @@ data = {
         "username" : "Samantya",
         "age" : 19
     },
+
+    "Char2" : {
+        "username" : "Niyari",
+        "age" : 19
+    },
+    
     
     
 
