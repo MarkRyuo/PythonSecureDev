@@ -10,7 +10,8 @@
 data = {
     "Char1": {
         "username" : "Moda",
-        "age" : 21
+        "age" : 21,
+        "alive" : False
     },
 
     "Char2" : {
