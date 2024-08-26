@@ -34,11 +34,11 @@ data = {
 
     "Char5" : {
         "username" : "Jiyan",
-        "age" : 19
+        "age" : 19,
         "alive" : True
     },
     
 
 }
 
-#* Check if the character in the data is alive  
+#* Check if the character in the data is alive, Input the name   
