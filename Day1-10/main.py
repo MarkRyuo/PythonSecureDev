@@ -14,7 +14,7 @@ data = {
     },
     
     "Char3" : {
-        "username" : "Niyari",
+        "username" : "Riyuo",
         "age" : 19
     },
     
