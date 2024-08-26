@@ -1,4 +1,4 @@
-
+from Data import data
 
 #* Create Character Checker
 #* Temporal Incident  
