@@ -19,7 +19,7 @@ data = {
     },
 
     "Char4" : {
-        "username" : "Niyari",
+        "username" : "Samantya",
         "age" : 19
     },
     
