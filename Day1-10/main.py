@@ -55,9 +55,8 @@ def check_alive() :
                 print(f"{charname} is alive")
             else :
                 print(f"{charname} is unknown")
-            
-        else :
-            print(f"{charname} is not found")
+    
+    return charname 
 
 
 
