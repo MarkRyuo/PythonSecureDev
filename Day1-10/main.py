@@ -44,7 +44,7 @@ data = {
 
 def check_alive() -> str  :
 
-    charname = input("Enter the name: ") 
+    charname = str(input("Enter the name: ")) 
 
     for key, value in data.items() :
         # print(f"{key}, {value}")
