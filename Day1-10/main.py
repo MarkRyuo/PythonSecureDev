@@ -5,6 +5,8 @@
 data = {
     "User1": {
         "username" : "Moda",
-        "age"
-    }
+        "age" : 21
+    },
+
+    
 }
