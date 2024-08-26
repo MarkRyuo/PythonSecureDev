@@ -2,11 +2,10 @@
 
 #* Create a Secure Login 
 
-#* Vanishing Incident  
-
-from http.client import _DataType
+#* Temporal Incident  
 
 
+# todo create a data by name of characters in the Vanishing Incident
 data = {
     "Char1": {
         "username" : "Moda",
