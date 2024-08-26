@@ -62,4 +62,4 @@ def check_alive() -> str :
 
 
 if __name__ == '__main__' :
-    check_alive()
+    print(check_alive())
