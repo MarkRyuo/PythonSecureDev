@@ -23,12 +23,13 @@ data = {
     "Char3" : {
         "username" : "Riyuo",
         "age" : 19,
-        "alive" : True
+        "alive" : False
     },
 
     "Char4" : {
         "username" : "Samantya",
         "age" : 19
+        "alive" : 
     },
 
     "Char5" : {
