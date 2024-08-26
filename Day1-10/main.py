@@ -6,6 +6,7 @@
 
 
 # todo create a data by name of characters in the Temporal Incident
+
 data = {
     "Char1": {
         "username" : "Moda",
@@ -35,5 +36,4 @@ data = {
 
 }
 
-
-print(type(data))
+#* Check if the character in the data is alive  
