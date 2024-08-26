@@ -1,6 +1,6 @@
 
 
-#* Create a Secure Login 
+#* Create Character Checkerw
 
 #* Temporal Incident  
 
@@ -48,7 +48,7 @@ def check_alive() :
     charname = input("Enter the name: ") 
 
     for key, value in data.items() :
-        print(f"{key}, {value}")
+        # print(f"{key}, {value}")
         if value["username"] == charname :
 
             if value["alive"] :
