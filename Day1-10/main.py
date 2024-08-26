@@ -5,7 +5,7 @@
 #* Temporal Incident  
 
 
-# todo create a data by name of characters in the Vanishing Incident
+# todo create a data by name of characters in the Temporal Incident
 data = {
     "Char1": {
         "username" : "Moda",
