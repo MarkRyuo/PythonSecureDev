@@ -44,4 +44,5 @@ data = {
 #* Check if the character in the data is alive, Input the name 
 
 def check_alive() :
-      
+
+    charname = input("")  
