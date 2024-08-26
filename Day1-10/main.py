@@ -57,3 +57,8 @@ def check_alive() -> str :
 
 
     return charname 
+
+
+
+if __name__ == '__main__' :
+    check_alive()
