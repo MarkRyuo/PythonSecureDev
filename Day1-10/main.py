@@ -27,6 +27,8 @@ def check_alive() -> str  :
 
 def get_username() :
 
+    getName = str(input("Enter your username"))
+
 
 
 if __name__ == '__main__' :
