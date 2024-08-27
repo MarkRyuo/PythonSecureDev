@@ -34,9 +34,11 @@ def get_username() -> str :
 
     while True : 
 
+        addlimit = 5 
 
         if getName :
             data.append(getName)
+            return f"{data}"
         else : 
             return "Try Again"
 
