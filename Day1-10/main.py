@@ -1,5 +1,3 @@
-from curses.ascii import isdigit
-from requests import get
 from Data import data
 
 #* Create Character Checker
@@ -49,9 +47,6 @@ def get_username() -> str :
             print(f"{data}")
             return "Data is full"
 
-
-    
-    return getName
 
 
 if __name__ == '__main__' :
