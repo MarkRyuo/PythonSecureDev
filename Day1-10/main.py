@@ -44,7 +44,7 @@ def get_username() :
             return "Username can't be empty!"
         
         if limiter == 0 :
-            print(f"{data}")
+            # print(f"{data}")
             return "Data is full"
         
         return data
