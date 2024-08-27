@@ -41,6 +41,8 @@ def get_username() -> str :
         if getName: 
             data.append(getName)
             print("-1")
+        else : 
+            return "Username can't be empty!"
 
 
     
