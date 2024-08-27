@@ -34,11 +34,15 @@ def get_username() -> str :
     while True : 
 
         getName = input("Enter your username: ")
-        addlimit = int(5) 
+        limiter = int(5) 
 
         #* If getName is True add another getName then add limiter 
 
         if getName: 
+            getName = input("Enter your username: ")
+        
+        if getName : 
+            addlimi
 
 
     
