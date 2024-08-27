@@ -34,17 +34,14 @@ def get_username() -> str :
     while True : 
 
         getName = input("Enter your username: ")
-        addlimit = 5 
+        addlimit = int(5) 
 
         if getName :
+            getName = input("Enter your username: ")
             data.append(getName)
             return f"{data}"
         else : 
             return "Try Again"
-
-        if getName :
-            addlimit -= 1
-
 
 
 if __name__ == '__main__' :
