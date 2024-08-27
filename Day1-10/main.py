@@ -30,7 +30,7 @@ def check_alive() -> str  :
 def get_username() -> str :
 
     data = list([]) #* Create a empty list
-    limiter = 5
+    limiter = int(5
 
     while True : 
 
