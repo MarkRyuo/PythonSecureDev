@@ -24,3 +24,8 @@ class Character(ABC) :
     def CallAge(cls, ) -> str :
         
         return "I dont Know"
+
+if __name__ == '__main__' :
+    
+else : 
+    print("Rendering Outside")
