@@ -11,7 +11,8 @@ class GetCharacter(Character) :
     
     def CallName(self) :
         
-        for key, values in 
+        for key, values in data.items() :
+            print(f'{key}: {values}')
         
 
 if __name__ == '__main__' :
