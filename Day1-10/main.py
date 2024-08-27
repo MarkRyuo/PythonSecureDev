@@ -35,10 +35,11 @@ def get_username() -> str :
 
     while True : 
 
-        if getName.isdigit() : 
+        if getName.isdigit() :
+            print(type(getName)) 
             return "Hello"
         else : 
-            return f"Enter a name: "
+            return "Enter a name: "
 
 
 
