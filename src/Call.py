@@ -6,7 +6,7 @@ class GetCharacter(Character) :
         super().__init__() 
     
     
-    def CallName() :
+    def CallName(self) :
         print('Hello') 
         
 
