@@ -45,4 +45,4 @@ def get_username() -> str :
 
 if __name__ == '__main__' :
     # check_alive()
-    get_username()
+    print(get_username())
