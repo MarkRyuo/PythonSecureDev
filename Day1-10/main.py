@@ -30,11 +30,11 @@ def check_alive() -> str  :
 def get_username() -> str :
 
     data = list([]) #* Create a empty list
+    limiter = 5
 
     while True : 
 
         getName = input("Enter your username: ")
-        limiter = 5
 
         #* If getName is True add another getName then add limiter 
 
