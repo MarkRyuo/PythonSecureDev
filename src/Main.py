@@ -1,5 +1,3 @@
-
-
 from App import Character 
 
 
