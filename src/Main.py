@@ -8,6 +8,7 @@ if __name__ == '__main__' :
     
     askQ1 = str(input("Do you want to display the data? (Y/n): "))
     
-    if 
-    char.CallName()
+    if askQ1 == Y and askQ1 == y :
+        char.CallName()
+    else
 
