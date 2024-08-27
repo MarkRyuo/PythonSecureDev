@@ -10,6 +10,10 @@ class Character(ABC) :
     
     def Charloop(self) :
         
+        getName = str(input("Enter a name of Character: w"))
+        
+        for key, values in data.items() :
+            if values["Uname"] == 
     
     @abstractmethod
     def CallName(self) :
@@ -18,4 +22,4 @@ class Character(ABC) :
     @classmethod
     def CallAge(cls, ) -> str :
         
-        return 
+        return "I dont Know"
