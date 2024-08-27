@@ -36,10 +36,9 @@ def get_username() -> str :
     while True : 
 
         if getName.isdigit() :
-            print(type(getName)) 
-            return "Hello"
+            if 
         else : 
-            return "Enter a name: "
+            return "Try Again"
 
 
 
