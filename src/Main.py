@@ -1,4 +1,4 @@
-from App import Character
+
 from Call import GetCharacter 
 
 
