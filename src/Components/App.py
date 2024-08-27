@@ -10,10 +10,11 @@ class Character(ABC) :
     
     def Charloop(self) :
         
-        getName = str(input("Enter a name of Character: w"))
+        getName = str(input("Enter a name of Character: "))
         
         for key, values in data.items() :
-            if values["Uname"] == 
+            if values["Uname"] == getName :
+                return "Valid"
     
     @abstractmethod
     def CallName(self) :
