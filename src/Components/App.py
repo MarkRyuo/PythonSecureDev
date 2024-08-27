@@ -8,6 +8,13 @@ class Character(ABC) :
     def __init__(self) -> None :
         pass
     
+    
+    
     @abstractmethod
     def CallName(self) :
-           
+            pass 
+    
+    @classmethod
+    def CallAge(cls, ) -> str :
+        
+        return 
