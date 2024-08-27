@@ -54,5 +54,4 @@ def get_username() :
 if __name__ == '__main__' :
     # check_alive()
     
-    dataget = get_username()
-    print(dataget)
+    
