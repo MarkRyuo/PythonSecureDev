@@ -36,7 +36,7 @@ def get_username() -> str :
     while True : 
 
         if getName.isdigit() : 
-            pass
+            return True
         else : 
             return f"Enter a name: "
 
