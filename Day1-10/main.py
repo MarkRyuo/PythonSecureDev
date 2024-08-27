@@ -1,3 +1,4 @@
+from requests import get
 from Data import data
 
 #* Create Character Checker
@@ -33,7 +34,7 @@ def get_username() -> str :
 
     while True : 
 
-        if  
+        if getName.isdigit()
 
 
 
