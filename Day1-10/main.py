@@ -25,7 +25,7 @@ def check_alive() -> str  :
 
 #* Create a CRUD operation 
 
-def get_username() -> str :
+def get_username() :
 
     limiter = int(5)
     data = list([]) #* Create a empty list
@@ -46,7 +46,8 @@ def get_username() -> str :
         if limiter == 0 :
             print(f"{data}")
             return "Data is full"
-
+        
+        return data
 
 
 
