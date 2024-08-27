@@ -38,13 +38,6 @@ def get_username() -> str :
 
         #* If getName is True add another getName then add limiter 
 
-        if getName: 
-            getName = input("Enter your username: ")
-            data.append(getName)
-        
-        if getName : 
-            limiter -= 1 
-            return f"{data}"
 
 
     
