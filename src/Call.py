@@ -1,4 +1,5 @@
 from App import Character 
+from Data import data
 
 #* Subclass 
 
@@ -9,7 +10,9 @@ class GetCharacter(Character) :
     
     
     def CallName(self) :
-        print('Hello') 
+        
+        for key, values in 
+        
 
 if __name__ == '__main__' :
     pass
