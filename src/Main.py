@@ -10,5 +10,6 @@ if __name__ == '__main__' :
     
     if askQ1 == Y and askQ1 == y :
         char.CallName()
-    else
+    else :
+        print("Thank You for participating")
 
