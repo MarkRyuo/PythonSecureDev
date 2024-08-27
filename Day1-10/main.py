@@ -23,6 +23,9 @@ def check_alive() -> str  :
     return charname 
 
 
+#* Create a CRUD operation 
+
+
 
 if __name__ == '__main__' :
     check_alive()
