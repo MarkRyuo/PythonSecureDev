@@ -27,10 +27,10 @@ def check_alive() -> str  :
 
 def get_username() -> str :
 
-    data = list([]) #* Create a empty list
     limiter = int(5)
 
     while True : 
+        data = list([]) #* Create a empty list
 
         getName = input("Enter your username: ")
 
@@ -46,6 +46,7 @@ def get_username() -> str :
         if limiter == 0 :
             print(f"{data}")
             return "Data is full"
+
 
 
 
