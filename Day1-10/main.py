@@ -27,7 +27,11 @@ def check_alive() -> str  :
 
 def get_username() :
 
-    getName = str(input("Enter your username"))
+    getName = str(input("Enter your username")) 
+
+    data = []
+
+    while 
 
 
 
