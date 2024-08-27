@@ -1,8 +1,9 @@
-from App import Character 
+from App import Character
+from Call import GetCharacter 
 
 
 
 if __name__ == '__main__' :
-    char = Character()
+    char = GetCharacter()
     print(char.Charloop())
 
