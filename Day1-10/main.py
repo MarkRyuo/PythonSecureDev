@@ -29,7 +29,7 @@ def get_username() :
 
     getName = str(input("Enter your username")) 
 
-    data = []
+    data = [] #* Create a empty list 
 
     while 
 
