@@ -43,7 +43,7 @@ def get_username() -> str :
         
         if getName : 
             limiter -= 1 
-        
+            data.append(getName)
 
 
     
