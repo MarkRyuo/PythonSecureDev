@@ -4,4 +4,7 @@ from abc import ABC, abstractmethod
 
 class Character(ABC) :
     
+    def __init__(self) -> None :
+        pass
     
+       
