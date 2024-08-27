@@ -42,7 +42,8 @@ def get_username() -> str :
             getName = input("Enter your username: ")
         
         if getName : 
-            addlimi
+            limiter -= 1 
+        
 
 
     
