@@ -44,4 +44,5 @@ def get_username() -> str :
 
 
 if __name__ == '__main__' :
-    check_alive()
+    # check_alive()
+    get_username()
