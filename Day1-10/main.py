@@ -28,7 +28,7 @@ def check_alive() -> str  :
 
 def get_username() -> str :
 
-    getName = str(input("Enter your username")) 
+    getName = input("Enter your username") 
 
     data = list(()) #* Create a empty list
 
@@ -36,6 +36,8 @@ def get_username() -> str :
 
         if getName : 
             pass
+        else : 
+            return f"Enter a "
 
 
 
