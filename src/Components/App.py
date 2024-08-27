@@ -26,6 +26,6 @@ class Character(ABC) :
         return "I dont Know"
 
 if __name__ == '__main__' :
-    
+    pass
 else : 
-    print("Rendering Outside")
+    print("Rendering Outside...")
