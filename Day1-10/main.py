@@ -30,7 +30,7 @@ def check_alive() -> str  :
 def get_username() -> str :
 
     data = list([]) #* Create a empty list
-    limiter = int(5
+    limiter = int(5)
 
     while True : 
 
@@ -38,6 +38,9 @@ def get_username() -> str :
 
         #* If getName is True add another getName then add limiter 
 
+        if getName: 
+            data.append(getName)
+            print("-1")
 
 
     
