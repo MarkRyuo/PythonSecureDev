@@ -36,7 +36,8 @@ def get_username() -> str :
 
 
         if getName.isdigit() :
-            getName = input("Enter your username: ") 
+            if getName : 
+                getName = input("Enter your username: ") 
         else : 
             return "Try Again"
 
