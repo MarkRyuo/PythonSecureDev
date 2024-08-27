@@ -30,4 +30,4 @@ class Character(ABC) :
 if __name__ == '__main__' :
     pass
 else : 
-    print("Rendering Outside...")
+    print("Rendering Outside of Superclass...")
