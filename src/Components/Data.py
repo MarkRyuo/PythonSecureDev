@@ -24,5 +24,10 @@ data = dict({
         "Uage" : 21
     },
     
+    "User1" : {
+        "Uname" : "Niyari",
+        "Uage" : 21
+    },
+    
     
 })
