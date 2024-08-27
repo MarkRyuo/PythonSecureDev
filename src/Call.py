@@ -11,6 +11,7 @@ class GetCharacter(Character) :
 
 if __name__ == '__main__' :
     pass
-
+else :
+    print("Rendering Outside of Subclass....")
         
 
