@@ -15,6 +15,8 @@ class Character(ABC) :
         for key, values in data.items() :
             if values["Uname"] == getName :
                 return "Valid"
+            else : 
+                return "Not Valid"
     
     @abstractmethod
     def CallName() :

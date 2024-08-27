@@ -1,4 +1,3 @@
-
 from Call import GetCharacter 
 
 
