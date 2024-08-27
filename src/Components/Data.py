@@ -20,12 +20,12 @@ data = dict({
     },
     
     "User4" : {
-        "Uname" : "Niyari",
-        "Uage" : 21
+        "Uname" : "Jiyan",
+        "Uage" : 19
     },
     
-    "User1" : {
-        "Uname" : "Niyari",
+    "User5" : {
+        "Uname" : "Moda",
         "Uage" : 21
     },
     
