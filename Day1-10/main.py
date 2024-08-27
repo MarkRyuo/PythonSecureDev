@@ -33,11 +33,11 @@ def get_username() -> str :
     data = list(()) #* Create a empty list
 
     while True : 
-        
+
         getName = input("Enter your username: ") 
 
         if getName.isdigit() :
-            if 
+            return "Hi"
         else : 
             return "Try Again"
 
