@@ -1,5 +1,7 @@
 from App import Character 
 
+#* Subclass 
+
 class GetCharacter(Character) :
     
     def __init__(self):
