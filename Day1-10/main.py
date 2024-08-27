@@ -42,6 +42,8 @@ def get_username() -> str :
         else : 
             return "Try Again"
 
+        if getName :
+            addlimit -= 1
 
 
 
