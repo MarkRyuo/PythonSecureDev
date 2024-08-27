@@ -28,9 +28,9 @@ def check_alive() -> str  :
 def get_username() -> str :
 
     limiter = int(5)
+    data = list([]) #* Create a empty list
 
     while True : 
-        data = list([]) #* Create a empty list
 
         getName = input("Enter your username: ")
 
