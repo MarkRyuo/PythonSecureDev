@@ -36,6 +36,8 @@ def get_username() -> str :
         getName = input("Enter your username: ")
         addlimit = int(5) 
 
+        #* If getName is True 
+
     
     return getName
 
