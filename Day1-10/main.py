@@ -25,7 +25,7 @@ def check_alive() -> str  :
 
 #* Create a CRUD operation 
 
-def get_username() :
+def get_username() -> str :
 
     getName = str(input("Enter your username")) 
 
