@@ -1,3 +1,4 @@
+from curses.ascii import isdigit
 from requests import get
 from Data import data
 
@@ -34,10 +35,10 @@ def get_username() -> str :
 
     while True : 
 
-        if getName : 
+        if getName.isdigit() : 
             pass
         else : 
-            return f"Enter a "
+            return f"Enter a name: "
 
 
 
