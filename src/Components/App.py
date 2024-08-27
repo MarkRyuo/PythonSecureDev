@@ -8,7 +8,8 @@ class Character(ABC) :
     def __init__(self) -> None :
         pass
     
-    
+    def Charloop(self) :
+        
     
     @abstractmethod
     def CallName(self) :
