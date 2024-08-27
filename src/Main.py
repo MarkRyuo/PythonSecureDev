@@ -3,5 +3,6 @@ from App import Character
 
 
 if __name__ == '__main__' :
-    pass
+    char = Character() # type: ignore
+    char.Charloop()
 

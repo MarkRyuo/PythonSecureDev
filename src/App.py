@@ -16,7 +16,7 @@ class Character(ABC) :
             if values["Uname"] == getName :
                 return "Valid"
     
-    @abstractmethod
+    # @abstractmethod
     def CallName(self) :
             pass 
     
