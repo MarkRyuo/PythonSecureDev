@@ -1,6 +1,6 @@
 from App import Character 
 
-class GetCharacter() :
+class GetCharacter(Character) :
     
     def __init__(self):
         super().__init__() 
@@ -8,3 +8,5 @@ class GetCharacter() :
     
     def CallName() :
         print('Hello') 
+        
+
