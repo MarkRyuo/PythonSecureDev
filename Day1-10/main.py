@@ -34,16 +34,17 @@ def get_username() -> str :
     while True : 
 
         getName = input("Enter your username: ")
-        limiter = int(5) 
+        limiter = 5
 
         #* If getName is True add another getName then add limiter 
 
         if getName: 
             getName = input("Enter your username: ")
+            data.append(getName)
         
         if getName : 
             limiter -= 1 
-            data.append(getName)
+            return f"{data}"
 
 
     
